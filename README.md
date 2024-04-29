@@ -9,8 +9,8 @@ Install these libraries before running:
 - np_utils
 
 # DATASET AND MODEL
-- Link to dataset and model in OneDrive --> 
-- Could not be uploaded to GitHub due to size restrictions
+- Link to dataset and model in Google Drive --> https://drive.google.com/drive/folders/19hV5q0OLhUC9ZbN1Op0Q1JINCpFKbS2n?usp=sharing
+- Could not be uploaded to GitHub due to size restrictions, I apolgize for the link to GitHub which links to Google Drive.
 
 # RUN
 - Run the .ipynb file for full training.
